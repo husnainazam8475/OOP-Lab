@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\week 2\\week2_updated lab 5\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3E7405A2-0BA7-B8D6-4967-1D3FAE124DC7}|week2_updated lab 5.csproj|c:\\mac\\home\\desktop\\uni\uF028\\oop lab\\week 2\\week2_updated lab 5\\unsolvedtask6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7405A2-0BA7-B8D6-4967-1D3FAE124DC7}|week2_updated lab 5.csproj|solutionrelative:unsolvedtask6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7405A2-0BA7-B8D6-4967-1D3FAE124DC7}|week2_updated lab 5.csproj|c:\\mac\\home\\desktop\\uni\uF028\\oop lab\\week 2\\week2_updated lab 5\\unsolvedtask5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7405A2-0BA7-B8D6-4967-1D3FAE124DC7}|week2_updated lab 5.csproj|solutionrelative:unsolvedtask5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7405A2-0BA7-B8D6-4967-1D3FAE124DC7}|week2_updated lab 5.csproj|c:\\mac\\home\\desktop\\uni\uF028\\oop lab\\week 2\\week2_updated lab 5\\unsolvedtask4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7405A2-0BA7-B8D6-4967-1D3FAE124DC7}|week2_updated lab 5.csproj|solutionrelative:unsolvedtask4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7405A2-0BA7-B8D6-4967-1D3FAE124DC7}|week2_updated lab 5.csproj|c:\\mac\\home\\desktop\\uni\uF028\\oop lab\\week 2\\week2_updated lab 5\\unsolvedtask3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7405A2-0BA7-B8D6-4967-1D3FAE124DC7}|week2_updated lab 5.csproj|solutionrelative:unsolvedtask3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7405A2-0BA7-B8D6-4967-1D3FAE124DC7}|week2_updated lab 5.csproj|c:\\mac\\home\\desktop\\uni\uF028\\oop lab\\week 2\\week2_updated lab 5\\unsolvedtask2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7405A2-0BA7-B8D6-4967-1D3FAE124DC7}|week2_updated lab 5.csproj|solutionrelative:unsolvedtask2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7405A2-0BA7-B8D6-4967-1D3FAE124DC7}|week2_updated lab 5.csproj|c:\\mac\\home\\desktop\\uni\uF028\\oop lab\\week 2\\week2_updated lab 5\\unsolvedtask1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7405A2-0BA7-B8D6-4967-1D3FAE124DC7}|week2_updated lab 5.csproj|solutionrelative:unsolvedtask1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3E7405A2-0BA7-B8D6-4967-1D3FAE124DC7}|week2_updated lab 5.csproj|c:\\mac\\home\\desktop\\uni\uF028\\oop lab\\week 2\\week2_updated lab 5\\solvedtask6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E7405A2-0BA7-B8D6-4967-1D3FAE124DC7}|week2_updated lab 5.csproj|solutionrelative:solvedtask6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,19 +71,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "unsolvedtask6.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\week 2\\week2_updated lab 5\\unsolvedtask6.cs",
+              "RelativeDocumentMoniker": "unsolvedtask6.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\week 2\\week2_updated lab 5\\unsolvedtask6.cs",
+              "RelativeToolTip": "unsolvedtask6.cs",
+              "ViewState": "AgIAAGcAAABAAAAAAMAtwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T11:40:06.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "unsolvedtask5.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\week 2\\week2_updated lab 5\\unsolvedtask5.cs",
+              "RelativeDocumentMoniker": "unsolvedtask5.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\week 2\\week2_updated lab 5\\unsolvedtask5.cs",
+              "RelativeToolTip": "unsolvedtask5.cs",
+              "ViewState": "AgIAAAAAAAAAMDMzMzPrvwgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T11:39:25.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "unsolvedtask4.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\week 2\\week2_updated lab 5\\unsolvedtask4.cs",
+              "RelativeDocumentMoniker": "unsolvedtask4.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\week 2\\week2_updated lab 5\\unsolvedtask4.cs",
+              "RelativeToolTip": "unsolvedtask4.cs",
+              "ViewState": "AgIAAF8AAACAmpmZmRkSwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T11:33:43.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "unsolvedtask3.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\week 2\\week2_updated lab 5\\unsolvedtask3.cs",
+              "RelativeDocumentMoniker": "unsolvedtask3.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\week 2\\week2_updated lab 5\\unsolvedtask3.cs",
+              "RelativeToolTip": "unsolvedtask3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T11:32:46.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "unsolvedtask2.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\week 2\\week2_updated lab 5\\unsolvedtask2.cs",
+              "RelativeDocumentMoniker": "unsolvedtask2.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\week 2\\week2_updated lab 5\\unsolvedtask2.cs",
+              "RelativeToolTip": "unsolvedtask2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T11:31:26.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "unsolvedtask1.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\week 2\\week2_updated lab 5\\unsolvedtask1.cs",
+              "RelativeDocumentMoniker": "unsolvedtask1.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\week 2\\week2_updated lab 5\\unsolvedtask1.cs",
+              "RelativeToolTip": "unsolvedtask1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T11:30:30.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "solvedtask6.cs",
               "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\week 2\\week2_updated lab 5\\solvedtask6.cs",
               "RelativeDocumentMoniker": "solvedtask6.cs",
               "ToolTip": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\week 2\\week2_updated lab 5\\solvedtask6.cs",
               "RelativeToolTip": "solvedtask6.cs",
-              "ViewState": "AgIAABgAAACAzMzMzMwVwCsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-01T10:03:45.776Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "solvedtask5.cs",
               "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\week 2\\week2_updated lab 5\\solvedtask5.cs",
               "RelativeDocumentMoniker": "solvedtask5.cs",
@@ -67,12 +169,11 @@
               "RelativeToolTip": "solvedtask5.cs",
               "ViewState": "AgIAAAcAAAAANjMzMzP5vxgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T10:03:07.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T10:03:07.9Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "solvedtask4.cs",
               "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\week 2\\week2_updated lab 5\\solvedtask4.cs",
               "RelativeDocumentMoniker": "solvedtask4.cs",
@@ -80,12 +181,11 @@
               "RelativeToolTip": "solvedtask4.cs",
               "ViewState": "AgIAAAwAAACgzczMzAwjwCEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T10:01:53.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T10:01:53.396Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "solvedtask3.cs",
               "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\week 2\\week2_updated lab 5\\solvedtask3.cs",
               "RelativeDocumentMoniker": "solvedtask3.cs",
@@ -93,12 +193,11 @@
               "RelativeToolTip": "solvedtask3.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T10:00:36.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T10:00:36.673Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "solvedtask2.cs",
               "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\week 2\\week2_updated lab 5\\solvedtask2.cs",
               "RelativeDocumentMoniker": "solvedtask2.cs",
@@ -106,12 +205,11 @@
               "RelativeToolTip": "solvedtask2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T07:48:09.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T07:48:09.09Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "week2_updated lab 5",
               "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\week 2\\week2_updated lab 5\\week2_updated lab 5.csproj",
               "RelativeDocumentMoniker": "week2_updated lab 5.csproj",
@@ -122,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "solvedtask1.cs",
               "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\week 2\\week2_updated lab 5\\solvedtask1.cs",
               "RelativeDocumentMoniker": "solvedtask1.cs",
@@ -134,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\week 2\\week2_updated lab 5\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

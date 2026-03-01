@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\week 2\\week2_updated lab 5\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3E7405A2-0BA7-B8D6-4967-1D3FAE124DC7}|week2_updated lab 5.csproj|c:\\mac\\home\\desktop\\uni\uF028\\oop lab\\week 2\\week2_updated lab 5\\solvedtask6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7405A2-0BA7-B8D6-4967-1D3FAE124DC7}|week2_updated lab 5.csproj|solutionrelative:solvedtask6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7405A2-0BA7-B8D6-4967-1D3FAE124DC7}|week2_updated lab 5.csproj|c:\\mac\\home\\desktop\\uni\uF028\\oop lab\\week 2\\week2_updated lab 5\\solvedtask5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7405A2-0BA7-B8D6-4967-1D3FAE124DC7}|week2_updated lab 5.csproj|solutionrelative:solvedtask5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3E7405A2-0BA7-B8D6-4967-1D3FAE124DC7}|week2_updated lab 5.csproj|c:\\mac\\home\\desktop\\uni\uF028\\oop lab\\week 2\\week2_updated lab 5\\solvedtask4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E7405A2-0BA7-B8D6-4967-1D3FAE124DC7}|week2_updated lab 5.csproj|solutionrelative:solvedtask4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,6 +47,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "solvedtask6.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\week 2\\week2_updated lab 5\\solvedtask6.cs",
+              "RelativeDocumentMoniker": "solvedtask6.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\week 2\\week2_updated lab 5\\solvedtask6.cs",
+              "RelativeToolTip": "solvedtask6.cs",
+              "ViewState": "AgIAABgAAACAzMzMzMwVwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T10:03:45.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "solvedtask5.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\week 2\\week2_updated lab 5\\solvedtask5.cs",
+              "RelativeDocumentMoniker": "solvedtask5.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\week 2\\week2_updated lab 5\\solvedtask5.cs",
+              "RelativeToolTip": "solvedtask5.cs",
+              "ViewState": "AgIAAAcAAAAANjMzMzP5vxgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T10:03:07.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "solvedtask4.cs",
               "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\week 2\\week2_updated lab 5\\solvedtask4.cs",
               "RelativeDocumentMoniker": "solvedtask4.cs",
@@ -51,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "solvedtask3.cs",
               "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\week 2\\week2_updated lab 5\\solvedtask3.cs",
               "RelativeDocumentMoniker": "solvedtask3.cs",
@@ -64,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "solvedtask2.cs",
               "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\week 2\\week2_updated lab 5\\solvedtask2.cs",
               "RelativeDocumentMoniker": "solvedtask2.cs",
@@ -77,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "week2_updated lab 5",
               "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\week 2\\week2_updated lab 5\\week2_updated lab 5.csproj",
               "RelativeDocumentMoniker": "week2_updated lab 5.csproj",
@@ -88,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "solvedtask1.cs",
               "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\week 2\\week2_updated lab 5\\solvedtask1.cs",
               "RelativeDocumentMoniker": "solvedtask1.cs",
@@ -100,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\week 2\\week2_updated lab 5\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

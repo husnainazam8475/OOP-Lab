@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "week2_updated lab 5/1.0.0": {
+        "runtime": {
+          "week2_updated lab 5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "week2_updated lab 5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

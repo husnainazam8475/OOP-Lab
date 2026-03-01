@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\OOP Lab_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9829F9E6-6301-8641-B0C2-6D76C966A8B5}|OOP Lab_2.csproj|c:\\mac\\home\\desktop\\uni\uF028\\oop lab\\oop lab_2\\solvedtask10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9829F9E6-6301-8641-B0C2-6D76C966A8B5}|OOP Lab_2.csproj|solutionrelative:solvedtask10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9829F9E6-6301-8641-B0C2-6D76C966A8B5}|OOP Lab_2.csproj|c:\\mac\\home\\desktop\\uni\uF028\\oop lab\\oop lab_2\\oop lab_2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9829F9E6-6301-8641-B0C2-6D76C966A8B5}|OOP Lab_2.csproj|solutionrelative:oop lab_2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9829F9E6-6301-8641-B0C2-6D76C966A8B5}|OOP Lab_2.csproj|c:\\mac\\home\\desktop\\uni\uF028\\oop lab\\oop lab_2\\solvedtask9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9829F9E6-6301-8641-B0C2-6D76C966A8B5}|OOP Lab_2.csproj|solutionrelative:solvedtask9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9829F9E6-6301-8641-B0C2-6D76C966A8B5}|OOP Lab_2.csproj|c:\\mac\\home\\desktop\\uni\uF028\\oop lab\\oop lab_2\\solvedtask8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9829F9E6-6301-8641-B0C2-6D76C966A8B5}|OOP Lab_2.csproj|solutionrelative:solvedtask8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OOP Lab_2",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\OOP Lab_2\\OOP Lab_2.csproj",
+              "RelativeDocumentMoniker": "OOP Lab_2.csproj",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\OOP Lab_2\\OOP Lab_2.csproj",
+              "RelativeToolTip": "OOP Lab_2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-01T05:16:43.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "solvedtask10.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\OOP Lab_2\\solvedtask10.cs",
+              "RelativeDocumentMoniker": "solvedtask10.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\OOP Lab_2\\solvedtask10.cs",
+              "RelativeToolTip": "solvedtask10.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T05:12:29.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "solvedtask9.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\OOP Lab_2\\solvedtask9.cs",
+              "RelativeDocumentMoniker": "solvedtask9.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\OOP Lab_2\\solvedtask9.cs",
+              "RelativeToolTip": "solvedtask9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T05:07:16.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "solvedtask8.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\OOP Lab_2\\solvedtask8.cs",
+              "RelativeDocumentMoniker": "solvedtask8.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\Uni\uF028\\OOP Lab\\OOP Lab_2\\solvedtask8.cs",
+              "RelativeToolTip": "solvedtask8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T04:44:22.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
